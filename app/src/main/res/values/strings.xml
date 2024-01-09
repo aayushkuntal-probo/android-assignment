@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="user_age">Age</string>
+    <string name="process_data">Process Data</string>
+    <string name="processed_string">First Name: %1$s\nLast Name: %2$s\nAge: %3$s</string>
+</resources>
